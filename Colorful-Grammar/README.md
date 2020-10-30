@@ -1,8 +1,8 @@
 # colorful-grammer
 
-[click here to open](https://colorful-grammar.raghavshukla.repl.co/)
+[click here to open the website ](https://colorful-grammar.raghavshukla.repl.co/)
 
-
+***
 
 This website allows you to type all over the screen and watch the color of your screen change based on the number of verbs, nouns, adjectives, and adverbs in the text.
 
