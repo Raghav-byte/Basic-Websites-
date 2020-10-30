@@ -1,0 +1,10 @@
+body{
+    background :linear-gradient(to left, #636363,#a2ab58 )   ;
+    color: black;
+    padding: 20px;
+}
+
+h1{
+    font-size: 50px;
+	font-family: 'Courier New', Courier, monospace;
+}
