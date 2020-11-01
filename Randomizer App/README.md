@@ -4,4 +4,4 @@
 
 ***
 
-Website which display different Eminem quotes every time we reload 
+A tiny script which shows random The Office quotes evertime we reload.
