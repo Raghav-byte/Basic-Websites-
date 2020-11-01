@@ -1,23 +1,24 @@
 var lyrics = [
-    'You don’t get another chance, life is no Nintendo game',
-    'You only get one shot, do not miss your chance to blow ,This opportunity comes once in a lifetime yo!',
-    'I just can\’t sit back and wallow, in my own sorrow, but I know one fact: I\’ll be one tough act to follow',
-    'You’ve got enemies? Good, that means you actually stood up for something',
-    'Straighten up little soldier, stiffen up that upper lip. What are you crying about? You got me',
-    'I’d do whatever it takes, when I’m with you I get the shakes. My body aches when I ain’t with you I have zero strength',
-    'We’ll walk this road together, through the storm. Whatever weather, cold or warm',
-    'Maybe one day we’ll all wake up and this will just be a dream',
-    'My confidence is up, this stage is my pedestal',
-    'I’m unstoppable, Incredible Hulk You’re trapped in my medicine ball Drop the world',
-    'Why be a king, when you can be a god?',
-    'Trust is hard to come by. That’s why my circle is small and tight. I’m kind of funny about making new friends',
+    'Sometimes I’ll start a sentence and I don’t even know where it’s going. I just hope I find it along the way – Michael Scott, Season 5',
+    'Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me – Michael Scott, Season 2',
+    'I’m not superstitious, but I am a little stitious – Michael Scott, Season 4',
+    'If I don’t have some cake soon, I might die – Stanley Hudson, Season 4',
+    'Today, smoking is going to save lives – Dwight Schrute, Season 5',
+    'I just want to lie on the beach and eat hot dogs. That’s all I’ve ever wanted – Kevin Malone, Season 3',
+    'If I were buying my coffin, I would get one with thicker walls so you couldn’t hear the other dead people – Dwight Schrute, Season 2',
+    'And I knew exactly what to do. But in a much more real sense, I had no idea what to do – Michael Scott, Season 5',
+    'I am Beyonce always — Michael Scott',
+    'Should have burned this place down when I had the chance — Michael Scott',
+    'Mini cupcakes? As in the mini version of regular cupcakes? Which is already a mini version of cake? Honestly, where does it end with you people? — Kevin Malone',
+    'I don\'t care what they say about me. I just want to eat — Pam Beesly',
+    'I stopped caring a long time ago — Creed Bratton',
     ];
 
     var Name = prompt("Hey, What's your name ?") ;
 
     var RandomNumber = Math.floor(Math.random() *12 );
     
-    document.write("<h1>Hello " + Name + " here's a random Eminem quote for you - " + lyrics[RandomNumber] + " !!</h1> ");
+    document.write("<h1>Hey " + Name + " ! Here's a random The Office quote for you - " + lyrics[RandomNumber] + " !!</h1> ");
  
     
 
